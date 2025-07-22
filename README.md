@@ -19,8 +19,18 @@ A Python project with basic structure and dependencies.
 
 ## Usage
 
+### Local
 ```bash
 python main.py
+```
+
+### Docker
+```bash
+# Build the image
+docker build -t python-app .
+
+# Run the container
+docker run -it python-app
 ```
 
 ## Development
