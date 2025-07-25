@@ -1,3 +1,14 @@
 claude-code-sdk
 typing-extensions
-
+fastapi
+langchain
+langchain-openai
+langchain-google-genai
+langgraph
+langgraph-checkpoint-redis
+uvicorn
+langchain-community
+langfuse
+neo4j
+python-levenshtein
+langchain-anthropic
